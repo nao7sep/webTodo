@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+
+        <!-- Project Metadata -->
+        <AssemblyTitle>webTodoApp</AssemblyTitle>
+        <Product>webTodo</Product>
+        <Description>A Blazor Server web application for managing a to-do list.</Description>
+        <Company>Purrfect Code</Company>
+        <Authors>nao7sep</Authors>
+        <Copyright>Copyright © 2025</Copyright>
+        <Version>0.1</Version>
+        <PackageLicenseExpression>GPL-3.0</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/nao7sep/webTodo</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
